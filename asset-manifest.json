@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43846948.css",
+    "main.js": "/static/js/main.2a6f2350.js",
+    "static/js/787.9ecde847.chunk.js": "/static/js/787.9ecde847.chunk.js",
+    "static/media/765579-business-wallpapers-1920x1080-ios.jpg": "/static/media/765579-business-wallpapers-1920x1080-ios.283cdc1c1836c64bc810.jpg",
+    "static/media/tl.jfif": "/static/media/tl.3fb289ab7b719b128d01.jfif",
+    "index.html": "/index.html",
+    "main.43846948.css.map": "/static/css/main.43846948.css.map",
+    "main.2a6f2350.js.map": "/static/js/main.2a6f2350.js.map",
+    "787.9ecde847.chunk.js.map": "/static/js/787.9ecde847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43846948.css",
+    "static/js/main.2a6f2350.js"
+  ]
+}
